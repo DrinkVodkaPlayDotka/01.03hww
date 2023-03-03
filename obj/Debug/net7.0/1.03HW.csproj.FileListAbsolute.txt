@@ -1,0 +1,15 @@
+D:\C#\after\1.03HW\bin\Debug\net7.0\1.03HW.exe
+D:\C#\after\1.03HW\bin\Debug\net7.0\1.03HW.deps.json
+D:\C#\after\1.03HW\bin\Debug\net7.0\1.03HW.runtimeconfig.json
+D:\C#\after\1.03HW\bin\Debug\net7.0\1.03HW.dll
+D:\C#\after\1.03HW\bin\Debug\net7.0\1.03HW.pdb
+D:\C#\after\1.03HW\obj\Debug\net7.0\1.03HW.csproj.AssemblyReference.cache
+D:\C#\after\1.03HW\obj\Debug\net7.0\1.03HW.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\after\1.03HW\obj\Debug\net7.0\1.03HW.AssemblyInfoInputs.cache
+D:\C#\after\1.03HW\obj\Debug\net7.0\1.03HW.AssemblyInfo.cs
+D:\C#\after\1.03HW\obj\Debug\net7.0\1.03HW.csproj.CoreCompileInputs.cache
+D:\C#\after\1.03HW\obj\Debug\net7.0\1.03HW.dll
+D:\C#\after\1.03HW\obj\Debug\net7.0\refint\1.03HW.dll
+D:\C#\after\1.03HW\obj\Debug\net7.0\1.03HW.pdb
+D:\C#\after\1.03HW\obj\Debug\net7.0\1.03HW.genruntimeconfig.cache
+D:\C#\after\1.03HW\obj\Debug\net7.0\ref\1.03HW.dll
